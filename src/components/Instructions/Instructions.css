@@ -1,0 +1,15 @@
+.instructions {
+  height: 100%;
+  border-left: 2px solid black;
+  display: flex;
+  align-items: center;
+  width: 25%;
+}
+
+.text-container {
+  padding: 0 20px;
+}
+
+p {
+  font-weight: 700;
+}
